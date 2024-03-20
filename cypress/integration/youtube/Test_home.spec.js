@@ -10,5 +10,6 @@ describe('Test Home', () => {
 		/* Visual Testing (Percy.io)
         cy.percySnapshot('mercedes')
         */
+		//cy.get('.gLFyf').type('Mercedes 190{enter}')
 	})
 })

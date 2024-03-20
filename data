@@ -1,0 +1,11 @@
+[33mcommit dfa27cf5e56f935d5f53a46fd9ae69a8c36ca1cc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luceq <lucjanjaroszewski@gmail.com>
+Date:   Wed Mar 20 13:37:21 2024 +0100
+
+    command
+
+[33mcommit 49ac82af02b5bd8f22aa0712fad613529a445a5c[m
+Author: Luceq <lucjanjaroszewski@gmail.com>
+Date:   Wed Mar 20 10:52:43 2024 +0100
+
+    Cypress test google search with visual test in command
