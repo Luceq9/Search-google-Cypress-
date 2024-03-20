@@ -14,5 +14,6 @@ describe('Test Home', () => {
 		// test
 
 		//cy.get('.gLFyf').type('Mercedes 190{enter}')
+		//cy.get('.GKS7s').eq(0).click()
 	})
 })
