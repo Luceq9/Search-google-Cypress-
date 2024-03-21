@@ -2,8 +2,8 @@
 // Start app: npm run open
 // Author: Luceq
 
-describe('Test Home', () => {
-	it('Visit Home', () => {
+describe('Google search - test', () => {
+	it('Visit google and testing search', () => {
 		cy.visit('https://www.google.com/')
 		cy.get('#L2AGLb').click()
 		cy.get('textarea.gLFyf').type('Mercedes 190{enter}')
